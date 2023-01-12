@@ -1,0 +1,54 @@
+h1{ 
+    background-color:black;
+    margin: 50px;
+    padding: 15px;
+}
+
+h2{
+    background-color: blue;
+}
+
+.main-image{
+    display: block;
+    margin-left:10cm;
+    margin-right: 10cm;
+    width: 250px;
+    height: 250px;
+}
+
+/* * MAIN TITLE COLOR */
+.header-text, #footer-styles{
+    color:WHITE;
+    text-align: center;
+}
+
+article{
+    margin: 50px;
+    border: 10px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 400px;
+}
+
+.article-text{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.Full-Recipe-link{
+    color: white;
+    text-decoration: none;
+    background-color:blue; 
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-size: 14px;
+}
+
+
+button{
+    background-color:wheat;
+    border:none;
+    padding: 20px  50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
